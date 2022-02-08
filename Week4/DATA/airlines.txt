@@ -1,0 +1,1 @@
+The data has 235 airlines (nodes) with 2101 connections (edges) between them. It included the abbreviation of the airports with the longitudinal and latitudinal magnitude.

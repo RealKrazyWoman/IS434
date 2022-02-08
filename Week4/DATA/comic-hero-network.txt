@@ -1,0 +1,1 @@
+This dataset (Comic and Hero) connects Marvel characters with comic issues they appeared in.

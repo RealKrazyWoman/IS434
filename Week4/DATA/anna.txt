@@ -1,0 +1,10 @@
+Network of the characters from the book Anna Karenina
+
+Compiled by Jean Mark Gawron.
+
+The file anna.gml describes a weighted, un-directed network
+representing the network of Anna Karenina characters.
+
+The edge (link) indicates that a pair of characters appeared together.
+The weight represents the number of shared scenes between a pair of characters.
+The weight value is normalized - by diving it by the maximum # of scenes shared.

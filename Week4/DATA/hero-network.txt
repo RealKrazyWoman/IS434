@@ -1,0 +1,1 @@
+This dataset contains connections between Marvel characters, weighted by number of common appearances in comics.

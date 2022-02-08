@@ -1,0 +1,3 @@
+adjacency network of common adjectives and nouns in the novel David Copperfield by Charles Dickens.
+
+Please cite M. E. J. Newman, Phys. Rev. E 74, 036104 (2006).

@@ -1,0 +1,9 @@
+Network of the characters from Les Miserables
+
+Compiled by Gephi.
+
+The file lesmiserables.gml describes a weighted, un-directed network
+representing the network of Les Miserables characters.
+
+The edge (link) indicates that a pair of characters appeared together.
+The weight represents the number of shared scenes between a pair of characters.
