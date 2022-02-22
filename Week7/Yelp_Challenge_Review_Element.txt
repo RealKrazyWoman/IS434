@@ -1,0 +1,184 @@
+<li class=" margin-b5__09f24__pTvws border-color--default__09f24__NPAKY">
+    <div class=" review__09f24__oHr9V border-color--default__09f24__NPAKY">
+        <div class=" margin-b3__09f24__l9v5d border-color--default__09f24__NPAKY">
+            <div class=" arrange__09f24__LDfbs gutter-auto__09f24__W9jlL border-color--default__09f24__NPAKY">
+                <div
+                    class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                    <div class=" border-color--default__09f24__NPAKY" role="region" aria-label="Michael B.">
+                        <div
+                            class=" arrange__09f24__LDfbs gutter-1-5__09f24__vMtpw vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+                            <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY">
+                                <div class=" avatar__09f24__thRcb border-color--default__09f24__NPAKY">
+                                    <div class=" css-0 border-color--default__09f24__NPAKY"><a
+                                            href="/user_details?userid=BqTlELlyTLets_qRnTPz6g" class="css-1lwccx4"
+                                            target="_self"><img class=" css-xlzvdl"
+                                                src="https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/60s.jpg"
+                                                srcset="https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/ms.jpg 1.67x,https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/120s.jpg 2.00x,https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/90s.jpg 1.50x,https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/168s.jpg 2.80x,https://s3-media0.fl.yelpcdn.com/photo/S09XkzVjze1IJymMpw47cg/180s.jpg 3.00x"
+                                                alt="Photo of Michael B." height="64" width="64" loading="lazy"
+                                                draggable="true"></a></div>
+                                </div>
+                            </div>
+                            <div
+                                class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                                <div class=" user-passport-info border-color--default__09f24__NPAKY"><span
+                                        class="fs-block css-1iikwpv" data-font-weight="bold"><a
+                                            href="/user_details?userid=BqTlELlyTLets_qRnTPz6g"
+                                            class="css-1422juy">Michael B.</a></span>
+                                    <div
+                                        class=" responsive-hidden-small__09f24__qQFtj border-color--default__09f24__NPAKY">
+                                        <div class=" border-color--default__09f24__NPAKY"><span class=" css-1sufhje">San
+                                                Diego, CA</span></div>
+                                    </div>
+                                </div>
+                                <div class=" margin-t0-5__09f24__gboxT border-color--default__09f24__NPAKY">
+                                    <div
+                                        class=" display--inline-block__09f24__fEDiJ border-color--default__09f24__NPAKY">
+                                        <div
+                                            class=" user-passport-stats__09f24__NQxB4 border-color--default__09f24__NPAKY">
+                                            <div class=" display--inline-block__09f24__fEDiJ margin-r1__09f24__rN_ga border-color--default__09f24__NPAKY"
+                                                aria-label="Friends"><span aria-hidden="true"
+                                                    class="icon--16-friends-v2 css-1mrxdyn"><svg width="16" height="16"
+                                                        class="icon_svg">
+                                                        <path
+                                                            d="M11.231 1.25H4.769A3.523 3.523 0 001.25 4.77v6.46a3.523 3.523 0 003.519 3.52h6.462a3.524 3.524 0 003.519-3.52V4.77a3.523 3.523 0 00-3.519-3.52zm-6.462 1.5h6.462a2.022 2.022 0 012.019 2.02v6.223a8.71 8.71 0 00-2.218-1.177c.164-.395.249-.819.25-1.247V7.562a3.281 3.281 0 10-6.563 0v1.007c0 .428.085.852.249 1.247-.792.283-1.54.68-2.218 1.177V4.77a2.022 2.022 0 012.019-2.02zm5.012 5.82a1.781 1.781 0 01-3.562 0V7.561a1.781 1.781 0 013.562 0v1.007zm1.45 4.68H4.769a2.007 2.007 0 01-1.49-.668.415.415 0 01.15-.237 7.259 7.259 0 012.498-1.254 3.21 3.21 0 004.144.002c.907.25 1.756.676 2.5 1.252.076.06.129.143.15.237a2.007 2.007 0 01-1.49.668z">
+                                                        </path>
+                                                    </svg></span><span
+                                                    class=" display--inline__09f24__c6N_k padding-l0-5__09f24__tBn3z border-color--default__09f24__NPAKY"><span
+                                                        class=" css-1bwnp89" data-font-weight="semibold">2</span></span>
+                                            </div>
+                                            <div class=" display--inline-block__09f24__fEDiJ margin-r1__09f24__rN_ga border-color--default__09f24__NPAKY"
+                                                aria-label="Reviews"><span aria-hidden="true"
+                                                    class="icon--16-review-v2 css-1mrxdyn"><svg width="16" height="16"
+                                                        class="icon_svg">
+                                                        <path
+                                                            d="M11.231 14.75H4.769a3.524 3.524 0 01-3.519-3.52V4.77a3.523 3.523 0 013.519-3.52h6.462a3.523 3.523 0 013.519 3.52v6.46a3.523 3.523 0 01-3.519 3.52zm-6.462-12A2.022 2.022 0 002.75 4.77v6.46a2.022 2.022 0 002.019 2.02h6.462a2.022 2.022 0 002.019-2.02V4.77a2.022 2.022 0 00-2.019-2.02H4.769z">
+                                                        </path>
+                                                        <path
+                                                            d="M11.226 7.229a.5.5 0 00-.404-.341l-1.64-.239-.734-1.486a.522.522 0 00-.896 0L6.818 6.65l-1.64.239a.5.5 0 00-.277.853l1.187 1.156-.28 1.633a.5.5 0 00.725.528L8 10.286l1.467.772a.498.498 0 00.725-.528l-.28-1.633L11.1 7.741a.5.5 0 00.127-.512z">
+                                                        </path>
+                                                    </svg></span><span
+                                                    class=" display--inline__09f24__c6N_k padding-l0-5__09f24__tBn3z border-color--default__09f24__NPAKY"><span
+                                                        class=" css-1bwnp89"
+                                                        data-font-weight="semibold">95</span></span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY">
+                    <div class=" inline__09f24__zZaGy">
+                        <div class="" role="presentation">
+                            <div>
+                                <div
+                                    class=" menu-popover-container__09f24__JN_XM display--inline-block__09f24__fEDiJ border-color--default__09f24__NPAKY">
+                                    <button type="submit" class="css-rigrq3" data-activated="false" aria-haspopup="true"
+                                        aria-expanded="false" value="submit" data-button="true"><span
+                                            class="css-1enow5j" data-font-weight="semibold"><span aria-hidden="false"
+                                                role="img" aria-label="Menu" class="icon--24-more-v2 css-12y3mxl"><svg
+                                                    width="24" height="24" class="icon_svg">
+                                                    <path
+                                                        d="M12 13.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm8 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm-16 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z">
+                                                    </path>
+                                                </svg></span></span></button></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=" margin-t1__09f24__w96jn margin-b1-5__09f24__NHcQi border-color--default__09f24__NPAKY">
+            <div
+                class=" arrange__09f24__LDfbs gutter-1__09f24__yAbCL vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+                <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY"><span
+                        class=" display--inline__09f24__c6N_k border-color--default__09f24__NPAKY">
+                        <div class=" i-stars__09f24__foihJ i-stars--regular-5__09f24__fJwXW border-color--default__09f24__NPAKY overflow--hidden__09f24___ayzG"
+                            aria-label="5 star rating" role="img"><img class=" offscreen__09f24__gZT9P"
+                                src="https://s3-media0.fl.yelpcdn.com/assets/public/stars_v2.yji-59bbc2cf8e3d4be04fcc.png"
+                                width="132" height="560" alt=""></div>
+                    </span></div>
+                <div
+                    class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                    <span class=" css-1e4fdj9">1/24/2019</span></div>
+            </div>
+        </div>
+        <div class=" margin-b2__09f24__CEMjT border-color--default__09f24__NPAKY">
+            <p class="comment__09f24__gu0rG css-1sufhje"><span class=" raw__09f24__T4Ezm" lang="en">Outstanding food and
+                    even better service. If you want one of the best meals in Singapore go here. You will not regret
+                    it.<br><br>Side note: extremely friendly and helpful with small children. Our daughter had a blast
+                    here.</span></p>
+        </div>
+        <div class=" arrange__09f24__LDfbs vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+            <div
+                class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                <span
+                    class=" display--inline__09f24__c6N_k margin-r1-5__09f24__ot4bd border-color--default__09f24__NPAKY"><button
+                        type="submit" class="button__09f24__x2pTP css-gsky" data-activated="false" value="submit"
+                        data-button="true"><span class="css-inq9gi" data-font-weight="semibold">
+                            <div
+                                class=" arrange__09f24__LDfbs gutter-0-5__09f24__PjGWv vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+                                <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY"><span
+                                        aria-hidden="true" class="icon--16-useful-v2 css-1c2abjj"><svg width="16"
+                                            height="16" class="icon_svg">
+                                            <path
+                                                d="M8 14.75A6.75 6.75 0 1114.75 8 6.758 6.758 0 018 14.75zm0-12A5.25 5.25 0 1013.25 8 5.256 5.256 0 008 2.75z">
+                                            </path>
+                                            <path
+                                                d="M11.25 7.2a3.25 3.25 0 10-5 2.73v.87a1.251 1.251 0 001.25 1.25h1a1.251 1.251 0 001.25-1.25v-.87a3.243 3.243 0 001.5-2.73zM8 8.95a1.75 1.75 0 110-3.5 1.75 1.75 0 010 3.5z">
+                                            </path>
+                                        </svg></span></div>
+                                <div
+                                    class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                                    <span
+                                        class=" display--inline__09f24__c6N_k border-color--default__09f24__NPAKY"><span
+                                            class=" css-1rw3tz3">Useful</span></span></div>
+                            </div>
+                        </span></button></span><span
+                    class=" display--inline__09f24__c6N_k margin-r1-5__09f24__ot4bd border-color--default__09f24__NPAKY"><button
+                        type="submit" class="button__09f24__x2pTP css-gsky" data-activated="false" value="submit"
+                        data-button="true"><span class="css-inq9gi" data-font-weight="semibold">
+                            <div
+                                class=" arrange__09f24__LDfbs gutter-0-5__09f24__PjGWv vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+                                <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY"><span
+                                        aria-hidden="true" class="icon--16-funny-v2 css-1c2abjj"><svg width="16"
+                                            height="16" class="icon_svg">
+                                            <path
+                                                d="M8 14.75A6.75 6.75 0 1114.75 8 6.758 6.758 0 018 14.75zm0-12A5.25 5.25 0 1013.25 8 5.256 5.256 0 008 2.75zm.706 4.65a1.1 1.1 0 112.2 0m-5.812 0a1.1 1.1 0 112.2 0">
+                                            </path>
+                                            <path
+                                                d="M4.572 9a.151.151 0 00-.147.176 3.62 3.62 0 007.15 0A.151.151 0 0011.428 9H4.572z">
+                                            </path>
+                                        </svg></span></div>
+                                <div
+                                    class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                                    <span
+                                        class=" display--inline__09f24__c6N_k border-color--default__09f24__NPAKY"><span
+                                            class=" css-1rw3tz3">Funny</span></span></div>
+                            </div>
+                        </span></button></span><span
+                    class=" display--inline__09f24__c6N_k margin-r1-5__09f24__ot4bd border-color--default__09f24__NPAKY"><button
+                        type="submit" class="button__09f24__x2pTP css-gsky" data-activated="false" value="submit"
+                        data-button="true"><span class="css-inq9gi" data-font-weight="semibold">
+                            <div
+                                class=" arrange__09f24__LDfbs gutter-0-5__09f24__PjGWv vertical-align-middle__09f24__zU9sE border-color--default__09f24__NPAKY">
+                                <div class=" arrange-unit__09f24__rqHTg border-color--default__09f24__NPAKY"><span
+                                        aria-hidden="true" class="icon--16-cool-v2 css-1c2abjj"><svg width="16"
+                                            height="16" class="icon_svg">
+                                            <path
+                                                d="M8 14.75A6.75 6.75 0 1114.75 8 6.758 6.758 0 018 14.75zm0-12A5.25 5.25 0 1013.25 8 5.256 5.256 0 008 2.75z">
+                                            </path>
+                                            <path
+                                                d="M3.513 6.98l.506 1.518a1.772 1.772 0 003.363 0l.17-.51a.473.473 0 01.896 0l.17.51a1.772 1.772 0 003.363 0l.506-1.518a.256.256 0 00-.243-.336H3.756a.255.255 0 00-.243.336zm1.907 3.369a.149.149 0 00-.157.234A3.432 3.432 0 008 12.035a3.431 3.431 0 002.737-1.452.148.148 0 00-.158-.234 9.75 9.75 0 01-5.158 0z">
+                                            </path>
+                                        </svg></span></div>
+                                <div
+                                    class=" arrange-unit__09f24__rqHTg arrange-unit-fill__09f24__CUubG border-color--default__09f24__NPAKY">
+                                    <span
+                                        class=" display--inline__09f24__c6N_k border-color--default__09f24__NPAKY"><span
+                                            class=" css-1rw3tz3">Cool</span></span></div>
+                            </div>
+                        </span></button></span></div>
+        </div>
+    </div>
+</li>
