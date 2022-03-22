@@ -1,0 +1,31 @@
+{
+  "Comment": "IS434 Step Functions Example",
+  "StartAt": "ProcessRequest",
+  "States": {
+    "ProcessRequest": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.Type",
+          "StringEquals": "ADD",
+          "Next": "ProcessAdd"
+        },
+        {
+          "Variable": "$.Type",
+          "StringEquals": "MULTIPLY",
+          "Next": "ProcessMultiply"
+        }
+      ]
+    },
+    "ProcessAdd": {
+      "Type": "Task",
+      "Resource": "YOUR_OWN_ProcessAdd_LAMBDA_FUNCTION_ARN",
+      "End": true
+    },
+    "ProcessMultiply": {
+      "Type": "Task",
+      "Resource": "YOUR_OWN_ProcessMultiply_LAMBDA_FUNCTION_ARN",
+     "End": true
+    }
+  }
+}
